@@ -377,3 +377,4 @@ conanfile.txt
 .cmake
 
 */.idea/workspace.xml
+*/.idea/misc.xml
