@@ -373,3 +373,7 @@ HelloJNI.class
 
 conan.cmake
 conanfile.txt
+
+.cmake
+
+*/.idea/workspace.xml
